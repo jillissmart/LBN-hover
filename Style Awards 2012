@@ -1,0 +1,164 @@
+
+ 
+<style>#beauty-menu,#beauty-menu ul{margin:0;padding:0;list-style:none}#beauty-menu{width:100%;margin:0 auto 0;background-color:#ed2172;float:left;clear:both}#beauty-menu:before,#beauty-menu:after{content:"";display:table}#beauty-menu:after{clear:both}#beauty-menu{position:relative;zoom:1;z-index:5}#beauty-menu li{float:left;position:relative}#beauty-menu a{float:left;padding:15px 30px;color:#fff;font-size:15px;line-height:13px;text-transform:uppercase;text-decoration:none}#beauty-menu span{float:left;padding:12px 0px;color:#fff;font-size:15px;line-height:13px;text-transform:uppercase;text-decoration:none}#beauty-menu li:hover>a{color:#fafafa}#beauty-menu>li>a>cufon{border-bottom:1px solid #ED2172}#beauty-menu li:hover>a cufon{border-bottom:1px solid #fafafa}#beauty-menu ul li>a cufon{border-bottom:1px solid #444}#beauty-menu ul{margin:20px 0 0 0;_margin:0;opacity:0;visibility:hidden;position:absolute;top:38px;left:0;z-index:9999;background:#444;-moz-transition:all .2s ease-in-out;-ms-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;}#beauty-menu li:hover>ul{opacity:1;visibility:visible;margin:0}#beauty-menu ul li{float:none;display:block;border:0;position:relative}#beauty-menu ul a{padding:10px;width:150px;display:block;white-space:nowrap;float:none;text-transform:none;position:relative}.last ul li a{width:210px!important}#beauty-menu ul a:hover{background-color:#18c4bd}#beauty-menu ul li:first-child>a:after{content:'';position:absolute;left:40px;top:-6px;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:6px solid #444}#beauty-menu ul li:first-child a:hover:after{border-bottom-color:#18c4bd;}</style>
+ 
+<style>#beauty-awards{float:left;width:647px;clear:both;position:relative;margin:0 0 40px;}#beauty-awards h2{float:left;width:100%;text-align:center;color:#18c4c2;text-transform:uppercase;font-size:19px;margin:0;padding:0;}#beauty-header{float:left;clear:both;width:100%;text-align:center;display:block;}#beauty-awards h3{font-size:54px;color:#000;line-height:10px;float:left;clear:both;width:100%;text-transform:uppercase;margin:0;padding:5px 0 0;}.beauty-feature{float:left;width:100%;display:block;border-bottom:4px solid #000;position:relative;margin:0 5px 0 0;padding:0;}#one{background:transparent url(http://www.womenshealthmag.com/files/beauty-awards-2012/images/eyes.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}#two{background:transparent url(http://www.womenshealthmag.com/files/beauty-awards-2012/images/body.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}#three{background:transparent url(http://www.womenshealthmag.com/files/beauty-awards-2012/images/face.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}#four{background:transparent url(http://www.womenshealthmag.com/files/beauty-awards-2012/images/hair.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}.inner{background:#000;width:302px;height:371px;position:relative;display:none;margin:0;padding:20px 10px;}.inner a{cursor:pointer;color:#ffe800!important;z-index:100;position:relative;display:block;font-size:17px;line-height:22px;float:left;clear:both;font-weight:400;margin-bottom:26px;text-transform:uppercase;padding:0;}.inner a cufon{border-bottom:1px solid #ffe800;}.inner a span{color:#ff0;}.inner a:hover{text-decoration:underline!important;}#blocks{position:relative;z-index:2;float:left;clear:both;}#one .burst{position:absolute;z-index:10;top:0;width:160px;height:411px;background:transparent url("http://www.womenshealthmag.com/files/beauty-awards-2012/images/burst-eyes.png") 0 0 no-repeat;display:block;}#two .burst{position:absolute;z-index:10;top:0;width:147px;height:189px;background:transparent url("http://www.womenshealthmag.com/files/beauty-awards-2012/images/burst-body.png") 0 0 no-repeat;display:block;}#three .burst{position:absolute;right:0;z-index:10;top:0;width:160px;height:411px;background:transparent url("http://www.womenshealthmag.com/files/beauty-awards-2012/images/burst-face.png") -162px 0 no-repeat;display:block;}#four .burst{position:absolute;right:0;z-index:10;top:0;width:140px;height:411px;background:transparent url("http://www.womenshealthmag.com/files/beauty-awards-2012/images/burst-hair.png") -182px 0 no-repeat;display:block;}#one .inner li,#two .inner li{text-align:right;width:100%;float:right;}#one .inner a,#two .inner a{text-align:right;float:right;margin-right:10px;}#two .inner li{width:190px;}#four .inner li{width:225px;}#feet{float:left;clear:both;width:100%;}#feet>div{list-style:none;width:100%;text-align:center;border-bottom:4px solid #000;float:left;margin:0 auto;}#feet .bonus{border-bottom:0;}#feet span{color:#000;font-size:18px;line-height:27px;text-transform:uppercase;}#feet a{color:#18c4c2;font-size:18px;line-height:27px;text-decoration:underline;text-transform:uppercase;}#feet a cufon{border-bottom:1px solid #18c4c2;}.bonus-2{padding-bottom:20px;}.bonus{padding:10px 0 15px;}.past{padding:10px 0;}#feet .byline{font-size:10px;text-transform:uppercase;}.bonus-2 a:first-child,.bonus span,.bonus a,.past span,.past a{padding:0 30px 0 0;}</style>
+<div id="beauty-awards">
+<div id="beauty-header">
+<h2>The Women's Health</h2>
+<h3>2012 Beauty Awards</h3>
+</div>
+<ul id="beauty-menu">
+<li><a href="http://www.womenshealthmag.com/">Beauty Awards</a>
+<ul>
+<li>
+<a href="http://www.womenshealthmag.com/beauty/best-face-products-2012">Face</a>
+</li>
+<li>
+<a href="http://www.womenshealthmag.com/beauty/best-makeup-2012">Eyes, Cheeks & Lips</a>
+</li>
+<li>
+<a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012">Hair</a>
+</li>
+<li>
+<a href="http://www.womenshealthmag.com/beauty/best-body-products-2012">Body & Nails</a>
+</li>
+</ul>
+</li>
+<li><span>|</span></li>
+<li>
+<a href="">Past Winners</a>
+<ul>
+<li>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/makeup-products">2011</a>
+</li>
+<li>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/beauty-products-2010-womens-health-beauty-awards">2010</a>
+</li>
+<li>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/best-beauty-products-4">2009</a>
+</li>
+</ul>
+</li>
+<li><span>|</span></li>
+<li class="last">
+<a href="">Beauty Bonus</a>
+<ul>
+<li>
+<a target="_blank" href="http://howto.womenshealthmag.com/">How to Get Gorgeous</a>
+</li>
+<li>
+<a target="_blank" href="http://blog.womenshealthmag.com/glow/">Glow: The WH Beauty Blog</a>
+</li>
+<li>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/cheap-beauty-deals">Best Beauty Bargains</a>
+</li>
+<li>
+<a href="http://www.womenshealthmag.com/beauty/beauty-awards-sweepstakes-2012">Win a Beauty Grab Bag!</a>
+</li>
+</ul>
+</li>
+</ul>
+<div id="blocks">
+<script type="text/javascript">
+$(document).ready(function() {
+
+ if ($.browser.msie && $.browser.version.substr(0,1)<8){
+ $('#beauty-menu li').has('ul').mouseover(function(){
+            $(this).addClass("hover");
+$(this).children('ul').css('visibility','visible');
+            }).mouseout(function(){
+            $(this).removeClass("hover");
+ $(this).children('ul').css('visibility','hidden');
+            });
+}
+
+$('ul.inner').hide();
+$('.beauty-feature>div').hover(function(){
+$(this).addClass('hover').find('ul.inner').slideDown('fast');
+$(this).hover(function(){},function(){
+$(this).removeClass('hover').find('ul.inner').slideUp('fast');
+});
+return false;
+});
+}); 
+</script>
+<div class="beauty-feature">
+<div id="one">
+<ul class="inner">
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012">Best Mascara</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=1">Best Eye Shadow</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=2">Best Eyeliner</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=3">Best Lipstick</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=4">Best Lip Balm</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=5">Best Lip Gloss</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=6">Best Bronzer</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-makeup-2012?page=7">Best Blush</a></li>
+</ul>
+<div class="burst"></div>
+</div>
+<div id="two">
+<ul class="inner">
+<li><a href="http://www.womenshealthmag.com/beauty/best-body-products-2012">Best Nail Polish</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-body-products-2012?page=1">Best Sunless Tanner</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-body-products-2012?page=2">Best<br/>Sunscreen</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-body-products-2012?page=3">Best Body Lotion</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-body-products-2012?page=4">Best Body<br/>Wash</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/beauty-awards-sweepstakes-2012">Win a Beauty Grab Bag!</a></li>
+</ul>
+<div class="burst"></div>
+</div>
+<div id="three">
+<ul class="inner">
+<li><a href="http://www.womenshealthmag.com/beauty/best-face-products-2012">Best Foundation</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-face-products-2012?page=1">Best Concealer</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-face-products-2012?page=2">Best Anti-Aging Product</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-face-products-2012?page=3">Best Moisturizer</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-face-products-2012?page=4">Best Facial<br/>Cleanser</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-face-products-2012?page=5">Best Eye<br/>Cream</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/beauty-awards-sweepstakes-2012">Win a<br/>Beauty Grab Bag!</a></li>
+</ul>
+<div class="burst"></div>
+</div>
+<div id="four">
+<ul class="inner">
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012">Best Dry Shampoo</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012?page=1">Best Hair-Smoothing Product</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012?page=2">Best At-Home Hair Color Treatment</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012?page=3">Best Hair Spray</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012?page=4">Best Volumizer</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012?page=5">Best conditioner</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/best-hair-products-2012?page=6">Best shampoo</a></li>
+</ul>
+<div class="burst"></div>
+</div>
+</div>
+</div>
+<div id="feet">
+<div class="past">
+<span>Past Winners</span>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/makeup-products">2011</a>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/beauty-products-2010-womens-health-beauty-awards">2010</a>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/best-beauty-products-4">2009</a>
+</div>
+<div class="bonus">
+<span>Beauty Bonus</span>
+<a target="_blank" href="http://howto.womenshealthmag.com/">How to get gorgeous</a>
+</div>
+<div class="bonus-2">
+<a target="_blank" href="http://blog.womenshealthmag.com/glow/">Glow: The WH Beauty Blog</a>
+<a target="_blank" href="http://www.womenshealthmag.com/beauty/cheap-beauty-deals">Best Beauty Bargains</a>
+</div>
+<span class="byline">PHOTOGRAPHS BY ALEXANDRE WEINBERGER</span>
+</div>
+</div> 
+ 
+<script type="text/javascript" src="http://www.womenshealthmag.com/files/beauty-awards-2012/js/cufon.js"></script>
+<script src="http://www.womenshealthmag.com/files/beauty-awards-2012/js/Gotham_Ultra_450.js" type="text/javascript"></script>
+<script type="text/javascript">Cufon.replace('#beauty-awards h2' , {hover: true},{fontFamily: 'Gotham Ultra' });</script>
+<script src="http://www.womenshealthmag.com/files/beauty-awards-2012/js/Gotham_Light_300.js" type="text/javascript"></script>
+<script type="text/javascript">Cufon.replace('#beauty-awards h3, .inner a, #feet span' , {hover: true},{fontFamily: 'Gotham Light' });</script>
+<script src="http://www.womenshealthmag.com/files/beauty-awards-2012/js/Gotham_Bold_400.js" type="text/javascript"></script>
+<script type="text/javascript">Cufon.replace('#feet a' , {hover: true},{fontFamily: 'Gotham Bold' });</script>
+<script src="http://www.womenshealthmag.com/files/beauty-awards-2012/js/Gotham_Book_325.js" type="text/javascript"></script>
+<script type="text/javascript">Cufon.replace('#beauty-menu a' , {hover: true},{fontFamily: 'Gotham Book' });</script>
