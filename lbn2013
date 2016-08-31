@@ -1,0 +1,80 @@
+
+<style type="text/css">#beauty-menu{width:644px;margin:0 auto 0;background-color:#ee2998;float:left;clear:both;text-align:center;color:#fff;font-size:15px;line-height:19px;text-transform:uppercase;padding:5px 0 5px;}#lbn-feature{float:left;width:647px;clear:both;position:relative;margin:0;padding:0 0 0 5px;}#lbn-header{float:left;clear:both;width:644px;text-align:center;display:block;padding:0!important;}#lbn-feature h3{font-size:54px;background-color:#ed2172;color:#fff;line-height:10px;float:left;clear:both;width:100%;text-transform:uppercase;margin:0;padding:0 0 5px 0;}.feature{float:left;width:100%;display:block;border-bottom:4px solid #000;position:relative;margin:0 5px 0 0;padding:0;}#one{background:transparent url(http://www.womenshealthmag.com/files/look-better-naked/images/stronger.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}#two{background:transparent url(http://www.womenshealthmag.com/files/look-better-naked/images/sexier.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}#three{background:transparent url(http://www.womenshealthmag.com/files/look-better-naked/images/confident.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}#four{background:transparent url(http://www.womenshealthmag.com/files/look-better-naked/images/slimmer.jpg) 0 0 no-repeat;width:322px;height:410px;display:block;float:left;position:relative;margin:0;}.lbn-inner{text-align:center;background:#787767;width:302px;height:371px;position:relative;display:none;margin:0;padding:30px 10px 10px;zoom:1;filter:alpha(opacity=92);opacity:0.92;float:left;}.lbn-inner a{cursor:pointer;color:#fff!important;z-index:100;position:relative;display:block;font-size:17px;line-height:22px;clear:both;font-weight:400;margin-bottom:24px;text-transform:uppercase;padding:0;text-align:center;}.lbn-inner a cufon{border-bottom:1px solid #fff;}.lbn-inner a span{color:#ff0;}.lbn-inner li{width:100%;float:left;}.lbn-inner a:hover{text-decoration:underline!important;}#blocks{position:relative;z-index:2;float:left;clear:both;}.burst{text-transform:uppercase;width:215px;height:91px;right:49px;padding:25px 0 0 0;top:155px;color:#fff;display:block;position:absolute;z-index:10;text-align:center;font-size:33px;line-height:30px;letter-spacing:-2px;zoom:1;filter:alpha(opacity=84);opacity:0.84;background-color:#ee2957;}#one .burst{top:135px;}#two .burst{top:135px;}#three .burst{}#four .burst{}.hilite{color:#ffff00;}#one .bump{margin-top:140px;}#two .bump{margin-top:140px;}#four .bump{margin-top:140px;}#three .lbn-inner,#four .lbn-inner{padding:20px 10px;}#feet{float:left;clear:both;width:100%;}#feet>div{list-style:none;width:100%;text-align:center;border-bottom:4px solid #000;float:left;margin:0 auto;}#feet .bonus{border-bottom:0;}#feet span{color:#000;font-size:20px;line-height:27px;text-transform:uppercase;}#feet a{color:#ed2172;font-size:20px;line-height:27px;text-decoration:underline;text-transform:uppercase;}#feet a cufon{border-bottom:1px solid #ed2172;}.past{padding:10px 0;}#feet .byline{font-size:10px;text-transform:uppercase;}.fit-video{float:left;clear:both;margin-top:30px;}.fit-video h3{float:left;text-indent:-5000em;clear:both;background:transparent url(http://www.womenshealthmag.com/files/headers/lbn-olay-video.png) 0 0 no-repeat;width:658px;height:43px;}.fit-video h4{float:left;clear:both;color:#cf2a62;font-size:20.6px;font-weight:400;}.fit-video p{float:left;clear:both;}.fit-video-box{padding:5px 20px;float:left;display:block;}</style>
+ 
+<script src="http://www.womenshealthmag.com/files/look-better-naked/js/cufon.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.womenshealthmag.com/files/look-better-naked/js/Gotham_Rounded_Medium_350.font.js"></script>
+<script type="text/javascript">Cufon.replace('#lbn-feature h3' , {hover: true},{fontFamily: 'Gotham Rounded Medium' });</script>
+<script type="text/javascript" src="http://www.womenshealthmag.com/files/look-better-naked/js/Gotham_Light_300.font.js"></script>
+<script type="text/javascript">Cufon.replace(' .lbn-inner a, #feet span' , {hover: true},{fontFamily: 'Gotham Light' });</script>
+<script type="text/javascript" src="http://www.womenshealthmag.com/files/look-better-naked/js/Gotham_Rounded_Bold_400.font.js"></script>
+<script type="text/javascript">Cufon.replace('.burst' , {hover: true},{fontFamily: 'Gotham Rounded Bold' });</script>
+<script type="text/javascript" src="http://www.womenshealthmag.com/files/look-better-naked/js/Gotham_Book_325.font-1.js"></script>
+<script type="text/javascript">Cufon.replace('#beauty-menu,' , {hover: true},{fontFamily: 'Gotham Book' });</script>
+<script type="text/javascript" src="http://www.womenshealthmag.com/files/look-better-naked/js/Gotham_Bold_italic_400.font.js"></script>
+<script type="text/javascript">Cufon.replace('#feet a,' , {hover: true},{fontFamily: 'Gotham Bold Italic' });</script>
+ 
+<div id="lbn-feature">
+<div id="lbn-header">
+<h3>Look Better Naked!</h3>
+</div>
+<div id="beauty-menu">Rediscover and reshape the body beneath your clothes<br/> and boost your in-the-buff confidence!</div>
+<div id="blocks">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$('ul.lbn-inner').hide();
+$('.feature>div').hover(function(){
+$(this).addClass('hover').find('ul.lbn-inner').slideDown('fast');
+$(this).hover(function(){},function(){
+$(this).removeClass('hover').find('ul.lbn-inner').slideUp('fast');
+});
+return false;
+});
+}); 
+</script>
+<div class="feature">
+<div id="one">
+<ul class="lbn-inner">
+<li><a href="http://www.womenshealthmag.com/fitness/workout-plan-1">Total-Body Workout</a></li>
+<li><a target="_blank" href="http://www.womenshealthpersonaltrainer.com/uof/womenshealthpersonaltrainer/47731/?cm_mmc=whmag.com-_-LBN_context-_-34139-_-124342&keycode=124342&source="><span class="hilite">Bonus Plan:</span> Track Your Progress!</a></li>
+<li class="bump"><a href="http://www.womenshealthmag.com/weight-loss/how-to-stick-to-a-workout">8 ways to Stick to Your workout</a></li>
+<li><a href="http://www.womenshealthmag.com/weight-loss/bigger-breasts">Bigger-Breast Exercises</a></li>
+</ul>
+<div class="burst">Get Stronger</div>
+</div>
+<div id="two">
+<ul class="lbn-inner">
+<li><a href="http://www.womenshealthmag.com/beauty/new-waxing">Hair-Removal Guide</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/skin-cell-function">Boost Your Skin's Metabolism</a></li>
+<li class="bump"><a href="http://www.womenshealthmag.com/beauty/nude-makeup">Barely-There Nude Makeup</a></li>
+<li><a href="http://www.womenshealthmag.com/beauty/how-to-get-soft-skin">The Secret to Softer Skin</a></li>
+</ul>
+<div class="burst">Feel<br/> Sexier</div>
+</div>
+<div id="three">
+<ul class="lbn-inner">
+<li><a href="http://www.womenshealthmag.com/weight-loss/the-naked-truth">The Naked Truth</a></li>
+<li><a href="http://www.womenshealthmag.com/weight-loss/sexy-body">6 Ways to Feel Sexier</a></li>
+<li><a target="_blank" href="http://www.womenshealthmag.com/fitness/wh-workouts-for-iphone#lookbetter">Get the iphone app</a></li>
+</ul>
+<div class="burst">Be Confident</div>
+</div>
+<div id="four">
+<ul class="lbn-inner">
+<li><a href="http://www.womenshealthmag.com/nutrition/healthy-diet">Easy Meal Plan</a></li>
+<li><a href="http://www.womenshealthmag.com/weight-loss/healthy-cocktails">Happy Hour Cocktails</a></li>
+<li><a href="http://www.womenshealthmag.com/nutrition/healthy-food">5 Quick &amp; Healthy recipes</a></li>
+<li class="bump"><a href="http://www.womenshealthmag.com/weight-loss/fast-diet">Two-day cleanse</a></li>
+<li><a href="http://www.womenshealthmag.com/weight-loss/flat-belly">7 Flat-Belly Food Tricks</a></li>
+</ul>
+<div class="burst">look slimmer</div>
+</div>
+</div>
+</div>
+<div id="feet">
+<div class="past">
+<span>Buy The Book</span>
+<a target="_blank" href="http://www.lookbetternakedbook.com/?keycode=124519">Look better naked</a>
+</div>
+<span class="byline">PHOTOGRAPHS BY Ondrea Barbe: PHOTOGRAPH TOP RIGHT BY iStockphoto/Thinkstock</span><br/><br/>
+</div>
